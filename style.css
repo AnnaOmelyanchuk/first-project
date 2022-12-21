@@ -36,6 +36,6 @@ body {
   }
 
   .main_text:hover ~ .main_text_hover {
-    transition: 3s;
+    transition: 5s;
     opacity: 1;
   }
